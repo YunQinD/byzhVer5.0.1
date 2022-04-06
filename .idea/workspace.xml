@@ -8,8 +8,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1575df88-a11f-4821-a33b-708793126731" name="变更" comment="变更">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/56835e1c-41e9-4004-9817-1bf69d982d33.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/56835e1c-41e9-4004-9817-1bf69d982d33.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/app.9da0d892.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-0172079a.3364ae2f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-16024692.c47ab784.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-1a4ad65b.bc39d1e0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-4816ab5a.a14fe9f5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-5367b1db.bc39d1e0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-5493c222.44ee2745.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-747f831c.fa87e9a1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-7d725fda.e5e401c7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-c85d1f4c.c6d63cef.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-cb5aac02.0455a503.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-cdb7ceca.277ed368.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/css/chunk-dfcaa128.12d85c52.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/fonts/SourceHanSans-Medium.a7a8b5a8.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/ChiHeWanLe.47d54e60.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/CuoWu.2f84d212.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/FanHui.9cf9b33b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/GeRenZhongXin.49a1b513.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/GongGaoLunBo.8b72e04c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/MiMa.f9d9dd96.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/PinChe.43b3a194.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/ShouYe.6ac7a2c6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/TieZi.9fed07b0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/TongZhi.2c7f6c1b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/XueXi.d7fb90d6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/ZhanNeiXiaoXi.a7f36828.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/ZhangHao.f1701cb9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/ZhaoPin.22710df1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/dengchu.46e880fd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/fankui.469cd6e3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/fatie.f684ce8e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/gerenxinxi.d1de50b3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/guanliyuan.a1f571e2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/jubao.5da592ac.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/shanchu.e4fd4160.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/shuaxin.be219c2a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/sousuo.872bb935.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/tiezidating.ca80d42f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/wancheng.359488df.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/img/zhaomudating.8c7bf6e3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/app.ddae2ffb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/app.ddae2ffb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-0172079a.a56fcf87.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-0172079a.a56fcf87.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-16024692.09144038.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-16024692.09144038.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-1a4ad65b.87db05f5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-1a4ad65b.87db05f5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-2d0bd640.ba025c0c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-2d0bd640.ba025c0c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-2d0daf2f.e38447f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-2d0daf2f.e38447f6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-4816ab5a.31e08708.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-4816ab5a.31e08708.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-5367b1db.4605d944.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-5367b1db.4605d944.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-5493c222.6a9dff44.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-5493c222.6a9dff44.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-747f831c.28898445.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-747f831c.28898445.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-7d725fda.373cc72c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-7d725fda.373cc72c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-c85d1f4c.b7f44b69.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-c85d1f4c.b7f44b69.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-cb5aac02.144a8cfd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-cb5aac02.144a8cfd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-cdb7ceca.e8ce50e7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-cdb7ceca.e8ce50e7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-dfcaa128.d0af2316.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-dfcaa128.d0af2316.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-vendors.e5bec05d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byzh/src/main/resources/static/js/chunk-vendors.e5bec05d.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +119,9 @@
       <facet id="byzh/invalid/Spring" />
       <facet id="byzh/invalid/Web" />
     </ignored-facets>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -86,11 +162,14 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TWTstudio\byzhVer2.0.1\byzh\byzh\src\main\resources\static" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.byzh.pojo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ByzhApplication">
+  <component name="RunManager" selected="Deploy to Host.byzhVer1.2">
     <configuration name="ByzhApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.byzh.ByzhApplication" />
       <module name="byzh" />
@@ -217,6 +296,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.ByzhApplication" />
+      <item itemvalue="Deploy to Host.byzhVer1.2" />
       <item itemvalue="JUnit.JsonUtilTest.judgeJsonNullValueTest" />
       <item itemvalue="JUnit.PostServiceImplTest.sqlInjectDefendTest" />
       <item itemvalue="JUnit.TeamMemberServiceTest.getApplyListTest" />
@@ -234,6 +314,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="1575df88-a11f-4821-a33b-708793126731" name="变更" comment="" />
@@ -248,7 +331,9 @@
       <workItem from="1646131947710" duration="13556000" />
       <workItem from="1646225235209" duration="11027000" />
       <workItem from="1646238803489" duration="1209000" />
-      <workItem from="1649220012605" duration="42000" />
+      <workItem from="1649220012605" duration="486000" />
+      <workItem from="1649220527056" duration="706000" />
+      <workItem from="1649221389819" duration="1455000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1648643090355</created>
@@ -257,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648643090355</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="变更">
+      <created>1649220291990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649220291990</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
